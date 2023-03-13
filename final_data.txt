@@ -1,0 +1,8 @@
+1.network traffic analysis:machine learning techniques to  malicious(anomaly and non anomaly) network traffic,Detect Cyberattacks,equipment failure detection,
+Time Series Analysis can be used to detect malicious data in cellular traffic and detect any anomalies.
+2.classify websites based on traffic
+3.automate Resource Allocation
+4.Predicting and Stopping “Event Storms”:alerts and escalate when critical systems lose connectivity or malfunction in some other way. The inherent problem is not only frequent false alarms, but a flood of nearly identical alerts created when a real emergency happens.
+5.predict traffic trends in ways that help guide future decisions.
+6.traffic management automation
+7.rating websites among [good,notmal,bad,blacklist] 
